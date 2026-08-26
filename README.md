@@ -47,8 +47,8 @@ https://youtube.com/shorts/WttclW9mvn0?feature=share
     pip install opencv-python ultralytics pyserial
     ```
 3.  Ensure your custom YOLO model (`best.pt`) is in the same directory as the script.
-4.  Adjust the `PORT_ARDUINO` variable in `main.py` to match your system.
+4.  Adjust the `PORT_ARDUINO` variable in `sorterAI.py` to match your system.
 5.  Run the script:
     ```bash
-    python main.py
+    python sorterAI.py
     ```
