@@ -1,4 +1,4 @@
-# AI-Powered-Conveyor-Sorter-YOLO-Vision
+<img width="4080" height="3060" alt="foto_makieta" src="https://github.com/user-attachments/assets/4407a64a-1e96-4663-b9df-296ed64d303b" /># AI-Powered-Conveyor-Sorter-YOLO-Vision
 
 ## Overview
 This project simulates an automated industrial quality control and sorting line. The physical system is built with Lego Technic and features a hand-cranked conveyor belt. 
@@ -8,10 +8,10 @@ A Sony TV camera acts as the main vision sensor, while a smartphone is mounted d
 Based on the AI's classification (e.g., screw vs. wood screw), an Arduino-controlled servo motor at the end of the conveyor positions itself to physically push the item into either the left or the right sorting bin.
 
 ## System Hardware & Setup
-![Sorter Hardware Setup](stanowisko.jpg)
+![Sorter Hardware Setup](foto_makieta.jpg)
 
 ## Video Demo
-https://youtube.com/shorts/WttclW9mvn0?feature=share
+https://youtube.com/shorts/Lh5SArnXaC4?feature=share
 
 ## System Vision Preview (YOLO Detection)
 ![YOLO Detection Preview](ssdetection.png)
