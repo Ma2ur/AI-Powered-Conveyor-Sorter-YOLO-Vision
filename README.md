@@ -1,5 +1,3 @@
-<img width="4080" height="3060" alt="foto_makieta" src="https://github.com/user-attachments/assets/4407a64a-1e96-4663-b9df-296ed64d303b" /># AI-Powered-Conveyor-Sorter-YOLO-Vision
-
 ## Overview
 This project simulates an automated industrial quality control and sorting line. The physical system is built with Lego Technic and features a hand-cranked conveyor belt. 
 
